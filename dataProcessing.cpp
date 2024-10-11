@@ -1,3 +1,8 @@
+// Juan Perez
+// jperezjr@csu.fullerton.edu
+// @jperezjr221
+// Partners:
+
 #include <fstream>
 #include <iostream>
 #include <string>
